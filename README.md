@@ -1,4 +1,4 @@
-# Align-Memory
+# algnmem
 
 A simple C library for easy memory alignment.
 
@@ -29,7 +29,7 @@ To get started with this project, download and install the following.
 - Run the command to clone this repository
 
   ```sh
-  git clone https://github.com/KumarjitDas/Align-Memory.git
+  git clone https://github.com/KumarjitDas/algnmem.git
   ```
 
 - Download and install a **C** compiler (*clang* or *gcc*)
@@ -81,7 +81,7 @@ To get started with this project, download and install the following.
 
 ## Roadmap
 
-See the [open issues](https://github.com/KumarjitDas/Align-Memory/issues) for a list of proposed features/functionalities (and known issues).
+See the [open issues](https://github.com/KumarjitDas/algnmem/issues) for a list of proposed features/functionalities (and known issues).
 
 The list of features and functions implemented till now is given in [Project Status](#project-status).
 
@@ -142,7 +142,7 @@ LinkedIn: [Kumarjit Das](https://www.linkedin.com/in/kumarjit-das/)
 
 E-mail: [kumarjitdas1999@gmail.com](kumarjitdas1999@gmail.com)
 
-Project link: [GitHub-KumarjitDas-Align-Memory](https://github.com/KumarjitDas/Align-Memory)
+Project link: [GitHub-KumarjitDas-algnmem](https://github.com/KumarjitDas/algnmem)
 
 ## Versioning
 
